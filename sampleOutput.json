@@ -1,0 +1,178 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Alice Guo: Fury as Filipino officials pose with 'China spy mayor'",
+    "description": "Disgraced ex-mayor Alice Guo flashes a wide smile and the peace sign in photos with her escorts.",
+    "url": "https://www.bbc.co.uk/news/articles/cdxl8j8lyjzo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fff4/live/6a291370-6c13-11ef-a1f1-2172a664cae4.jpg",
+    "publishedAt": "2024-09-06T06:37:16.0227382Z",
+    "content": "By that time, Ms Guo had changed into an orange police detainee shirt. At the airport in Jakarta, she was casually dressed in a white striped t-shirt and jeans. She was also not in handcuffs.\r\nAnothe… [+727 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hillside Endarasha Academy: 17 pupils killed in Kenya school fire, police say",
+    "description": "The cause of the fire at Hillside Endarasha Primary in Nyeri county is being investigated, police told local media.",
+    "url": "https://www.bbc.co.uk/news/articles/cje2jnlldgvo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "publishedAt": "2024-09-06T06:22:13.3520275Z",
+    "content": "At least 17 pupils have died after a school in central Kenya caught fire on Thursday night, police said. \r\nThere are fears that the death toll could rise as more than a dozen others have been taken t… [+250 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Atlanta rapper Rich Homie Quan dies",
+    "description": "The artist was one of the biggest names in hip-hop in the mid-2010s",
+    "url": "https://www.bbc.co.uk/news/articles/c2074z5e7v5o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3922/live/f36cdee0-6bf6-11ef-a003-ed2c605f88a8.png",
+    "publishedAt": "2024-09-06T05:37:20.9302337Z",
+    "content": "He became a huge name in the rap scene in the mid 2010, finding mainstream success with the 2013 hit Type of Way, which he followed up with the popular Flex (Ooh, Ooh, Ooh) in 2015. \r\nHe was nominate… [+1621 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Yagi: 'Catastrophic' super typhoon heads for southern China",
+    "description": "Yagi has doubled in strength after wrecking havoc in the northern Philippines early this week.",
+    "url": "https://www.bbc.co.uk/news/articles/c4gz3rk71n7o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5c9b/live/18d301a0-6c06-11ef-9365-bd9226369161.jpg",
+    "publishedAt": "2024-09-06T05:37:14.3829243Z",
+    "content": "Yagi is an \"extremely dangerous and powerful\" super typhoon which will soon make a \"potentially catastrophic\" landfall, the Indo-Pacific Tropical Cyclone Warning Center wrote in an advisory on Thursd… [+1654 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "New York police commissioner and other officials' homes raided",
+    "description": "Several top officials reportedly close to Mayor Eric Adams were targeted.",
+    "url": "https://www.bbc.co.uk/news/articles/cy0r7vr2v2eo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b84e/live/5163f360-6bcc-11ef-b43e-6916dcba5cbf.jpg",
+    "publishedAt": "2024-09-06T03:52:12.1010159Z",
+    "content": "The US Attorney's Office and the FBI, which reportedly participated in some of the raids, declined to comment. \r\nAs of Thursday evening, no official reason had been given for the raids. \r\nSources tol… [+1845 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Anger as concrete 'dam' appears on remote Cornish beach",
+    "description": "Residents near Whipsiderry beach have urged people to leave the beach to be \"left wild\".",
+    "url": "https://www.bbc.co.uk/news/articles/cgl23j439w4o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85ea/live/14523fb0-6aee-11ef-bca3-61f7b73970e9.jpg",
+    "publishedAt": "2024-09-06T03:22:15.625736Z",
+    "content": "Regular users of a hard-to-reach Cornish beach are angry and confused over a large piece of concrete that has appeared, and is blocking a natural pool.\r\nThe concrete, along with slabs and bricks, app… [+356 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "7-Eleven owner rejects $38.7bn buyout offer from rival",
+    "description": "Japanese owner of 7-Eleven says the offer from a Canadian rival 'grossly undervalues' the company.",
+    "url": "https://www.bbc.co.uk/news/articles/cz9w74dwkgno",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/99de/live/27f1a0f0-6bee-11ef-9b5b-f1989844e211.jpg",
+    "publishedAt": "2024-09-06T03:07:14.2574519Z",
+    "content": "\"The Special Committee believes that your proposal is opportunistically timed and grossly undervalues our standalone path and the additional actionable avenues we see to realize and unlock shareholde… [+677 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Father of boy held in Georgia school shooting is arrested",
+    "description": "Colin Gray, 54, is charged with involuntary manslaughter, second-degree murder and eight counts of cruelty to children.",
+    "url": "https://www.bbc.co.uk/news/articles/c9wj0vyl8xko",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b75/live/89de8fa0-6be2-11ef-a120-d1c2390d94c6.jpg",
+    "publishedAt": "2024-09-06T00:22:11.4303202Z",
+    "content": "These charges stem from knowingly allowing his son Colton to possess a weapon, Georgia Bureau of Investigations (GBI) Director Chris Hosey said in a news conference on Thursday evening.\r\nHe pledged t… [+1824 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Spotify wins case over 'billions' of Eminem streams",
+    "description": "The ruling comes even though Spotify did not obtain the correct licences to stream the star's music.",
+    "url": "https://www.bbc.co.uk/news/articles/cewlqppepjyo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a79a/live/790d7b80-6ae0-11ef-aee0-5f307e81f798.jpg",
+    "publishedAt": "2024-09-05T23:07:22.3674773Z",
+    "content": "Judge Aleta A. Trauger published her opinion on 15 August, writing that Spotify should not be liable for any damages.\r\nShe highlighted that, although Kobalt was authorised to collect royalties for Em… [+1646 chars]"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hunter Biden makes last-minute guilty plea in tax case",
+    "description": "The plea spares the US president's son a trial and keeps his friends and family from having to testify.",
+    "url": "https://www.bbc.co.uk/news/articles/cr5n926n6n0o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b7e2/live/9c03cbf0-6b8d-11ef-bfd9-5f2d264bba80.jpg",
+    "publishedAt": "2024-09-05T23:07:15.1173336Z",
+    "content": "His last-minute reversal, first announced in a Los Angeles courtroom on Thursday as jury selection was about to start, is his second criminal conviction this year.\r\nBidens attorney Abbe Lowell said h… [+3003 chars]"
+    },
+
+    {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Alice Guo: Fury as Filipino officials pose with 'China spy mayor'",
+        "description": "Disgraced ex-mayor Alice Guo flashes a wide smile and the peace sign in photos with her escorts.",
+        "url": "https://www.bbc.co.uk/news/articles/cdxl8j8lyjzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fff4/live/6a291370-6c13-11ef-a1f1-2172a664cae4.jpg",
+        "publishedAt": "2024-09-06T06:37:16.0227382Z",
+        "content": "By that time, Ms Guo had changed into an orange police detainee shirt. At the airport in Jakarta, she was casually dressed in a white striped t-shirt and jeans. She was also not in handcuffs.\r\nAnothe… [+727 chars]"
+        },
+       {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hillside Endarasha Academy: 17 pupils killed in Kenya school fire, police say",
+        "description": "The cause of the fire at Hillside Endarasha Primary in Nyeri county is being investigated, police told local media.",
+        "url": "https://www.bbc.co.uk/news/articles/cje2jnlldgvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+        "publishedAt": "2024-09-06T06:22:13.3520275Z",
+        "content": "At least 17 pupils have died after a school in central Kenya caught fire on Thursday night, police said. \r\nThere are fears that the death toll could rise as more than a dozen others have been taken t… [+250 chars]"
+        },
+       {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Atlanta rapper Rich Homie Quan dies",
+        "description": "The artist was one of the biggest names in hip-hop in the mid-2010s",
+        "url": "https://www.bbc.co.uk/news/articles/c2074z5e7v5o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3922/live/f36cdee0-6bf6-11ef-a003-ed2c605f88a8.png",
+        "publishedAt": "2024-09-06T05:37:20.9302337Z",
+        "content": "He became a huge name in the rap scene in the mid 2010, finding mainstream success with the 2013 hit Type of Way, which he followed up with the popular Flex (Ooh, Ooh, Ooh) in 2015. \r\nHe was nominate… [+1621 chars]"
+        }
+
+]
+    
+}
